@@ -22,4 +22,4 @@ def divide(dividend, divisor):
     return (quotient, remainder)
 
 result = divide(10, 3)
-print(result)  # Output: (3, 1)
+print(result)
